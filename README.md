@@ -1,4 +1,4 @@
-# twitter_analysis21
+# Analyzing the Social Networks of Twitter users during COVID
 Research work done during an Independent Study under Dr. Kenny Joseph
 
 This repository consists of code to analyze twitter's users' social networks during the recent pandemic. 
