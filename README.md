@@ -1,5 +1,5 @@
 # Analyzing the Social Networks of Twitter users during COVID
-Research work done during an Independent Study under Dr. Kenny Joseph
+Research work done during an Independent Study under Dr. Kenneth Joseph
 
 This repository consists of code to analyze twitter's users' social networks during the recent pandemic. 
 The objective of this code is to analyze the connection times of a user's followees (people a user follows) to then analyze how many of 
